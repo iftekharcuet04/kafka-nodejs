@@ -107,7 +107,7 @@ order-2
 
 ✅ Both groups receive all messages independently.
 
-### 🔁 Rebalance behavior (your earlier issue)
+### 🔁 Rebalance behavior (issue ihave faced)
 
 ###### If you force close a consumer:
 
