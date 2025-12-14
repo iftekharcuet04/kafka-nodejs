@@ -121,15 +121,6 @@ Correct way to exit:
 
 ```CTRL + C```
 
-#### For single without consumer group
-
-```kafka-console-consumer \
-  --bootstrap-server kafka:29092 \
-  --topic demo-topic \
-  --from-beginning
-
-  ```
-
 
 
 
